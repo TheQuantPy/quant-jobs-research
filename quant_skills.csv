@@ -1,0 +1,62 @@
+,skill,count
+0,trading,29359
+1,research,14000
+2,analysis,10661
+3,risk management,6825
+4,programming,5022
+5,mathematics,4245
+6,statistics,3768
+7,pricing,3305
+8,machine learning,3038
+9,optimization,2245
+10,model validation,1983
+11,derivatives,1847
+12,data analysis,1695
+13,quantitative analysis,1457
+14,credit risk,1208
+15,statistical analysis,839
+16,backtesting,749
+17,linux,698
+18,stress testing,638
+19,regression,552
+20,high-frequency trading,538
+21,econometrics,467
+22,strategy development,460
+23,financial modeling,385
+24,var,352
+25,git,297
+26,risk analysis,286
+27,monte carlo,227
+28,deep learning,221
+29,statistical arbitrage,219
+30,data engineering,217
+31,cloud computing,206
+32,time series analysis,190
+33,stochastic calculus,164
+34,monte carlo simulation,160
+35,numerical methods,151
+36,portfolio theory,112
+37,greeks,94
+38,reinforcement learning,85
+39,option pricing,60
+40,value at risk,59
+41,counterparty risk,54
+42,interest rate models,40
+43,signal processing,33
+44,parallel computing,29
+45,volatility modeling,25
+46,pde,22
+47,partial differential equations,14
+48,finite difference methods,12
+49,black-scholes,12
+50,bayesian inference,12
+51,api development,12
+52,mcmc,6
+53,kalman filter,6
+54,sde,4
+55,order book modeling,0
+56,markov chain monte carlo,0
+57,liquidity modeling,0
+58,expectation maximization,0
+59,copula models,0
+60,quant_finance_skill,0

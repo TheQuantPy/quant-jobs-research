@@ -1,0 +1,744 @@
+title,company_name,location,via,thumbnail,extensions,description,job_id,schedule_type,posted_at,date_time,search_term,search_location
+Senior Quantitative Analyst – Market and Counterparty Risk Model Validation,BNP Paribas Corporate & Institutional Banking,"Madrid, Spain",Groupe BNP Paribas,https://serpapi.com/searches/6851447bab28c6fc2b61a724/images/eebee5906216e99fe67016ff50a682f506d54d191f3f4dfd2a6ea449ba84c1e3.jpeg,['Full-time'],"GROUP BNP PARIBAS
+BNP Paribas Group is the top bank in the European Union and a major international banking establishment. It has close to 185,000 employees in 65 countries. In Spain we are more than 5,100 employees within 13 business lines.
+
+RISK HUB
+
+RISK is an integrated and independent control function of the BNP Paribas Group. It is the second line of defense on the risk management activities of the Group which are under its direct responsibilities, including credit and counterparty risk, market risk, funding and liquidity risk, interest rate and foreign exchange risks in the banking book, insurance risk, operational risk, and environmental and social risks.
+
+RISK aims at being a partner of the businesses by contributing to their sustainable development, but also a gatekeeper to ensure risks taken remain compatible with the Group’s Risk Appetite and its strategy.
+
+RISK Iberian Hub Madrid is a transversal platform servicing the RISK Function by covering added-value activities around credit risk, market risk, operational risk and data protection. Offering a wide range of services to RISK teams, from consulting to cyber security going through data analysis, modelling or artificial intelligence.
+
+ABOUT THE JOB
+
+MISSION and RESPONSIBILITIES
+
+RISK Independent Review & Control (RISK IRC) is a special unit within the RISK organisation and reports directly to the Group CRO. The independent review arm of the department provides second line of defence for the use of various types of models and, accordingly, is in charge of model risk management.
+
+The position in subject is within the team that covers market risk, counterparty risk and valuation risk methodologies. These methodologies are developed and used globally for both regulatory and internal risk management purposes, covering all activities of the Group. These methodologies cover amongst others:
+
+· Market risk internal models like Value-at-Risk (VaR), Stressed VaR, Incremental Risk Capital (IRC) and Comprehensive Risk Measure (CRM) metrics, as well as the new market risk methodologies that are developed to comply with the forthcoming Fundamental Review of the Trading Book (FRTB) regulation. These models cover all asset classes and all products, whether securities or derivatives, including also the market risk management of CVA and funding value adjustment.
+
+· On the counterparty risk side, the Group has developed Potential Future Exposure (PFE), Effective Expected Positive Exposure (EEPE) and CVA Capital Charge measures for various OTC, listed derivatives, prime brokerage and repo trading activities. The bank has implemented also the new Standardised Approach for Counterparty Credit Risk (SA-CCR) metric. Furthermore, the Group has developed and uses various types of margining methodologies, like the standard initial margin model (SIMM) used for non-centrally cleared derivatives.
+
+· On the valuation risk front, various methodologies are used for fair value and prudent value adjustments. These valuation risk methodologies cover amongst others measures for market price uncertainty, for close-out costs, for model risk, for concentrated positions and for future administrative costs.
+
+Sound model risk management practices require that these market risk, counterparty risk and valuation risk metrics, and any new developments, are subject to various types and levels of independent reviews, assessing the conceptual soundness, the proper application and the limitations of these methodologies. The vision of the team is to use the mean of proactive model risk management in order to enable better decisions where decisions rely on model outputs. We have built a franchise of model risk management services advising senior management, supervisory authorities, as well as serving internal clients requiring model risk assessments for existing or new models.
+
+The position in subject is about the model risk management of the abovementioned types of methodologies, performing independent reviews, assessing model limitations, and advising the stakeholders about the level of model risk born by the use of these methodologies. There is a wide range of activities covered by the team. Therefore, the precise scope of the review activity to be covered by the new team member will depend on the exact skills and experience of the candidate, as well as on the personal development plan that will be set for the team member. There is a key focus in the team on personal development. The team members are currently based in Paris, London, New York, Brussels, Madrid, Montreal and Bucharest. Although they are spread across the globe, they all work as a one team. Roles and responsibilities within the team are location agnostic.
+
+The position covers the team members who, under the supervision and guidance of Managers, will perform the review and analyses and present the results. Thanks to their experience, analysts can initiate and put through enhancements to the team’s operation. Model Risk Quantitative Analysts work mostly on independent reviews interacting with the validation managers and with the auditees. The latter usually includes model developers, teams operating the models, and model users. Those stakeholders may be within RISK, within the Business, or within other Group functions.
+
+REQUIREMENTS
+
+Hard skills
+
+• 5 to 15 years of experience
+
+• Strong quantitative background, owning an MSc or PhD degree in a quantitative subject, preferably a degree in financial mathematics.
+
+• This position requires proven professional experience in alignment with the responsibilities.
+
+• Advanced knowledge of capital markets: how the markets operate, what the liquidity and price observability of the key products are, what the trading venues are, and what the various netting and collateral agreements are.
+
+• Familiarity with many pricing models as well as with market and counterparty risk modelling techniques.
+
+• Strong understanding of stochastic processes and derivatives pricing
+
+• Good understanding of the regulatory requirements for the scope of models being in charge of.
+
+• In-depth knowledge of model risk management processes, regulatory requirements, internal policies, standards and templates.
+
+• Advanced programming skills (C++ / C#, R, Python, Matlab, etc) allowing fast assessment of model features and carrying out comparison of model alternatives.·
+
+• Experience with model validation techniques and model risk management processes.
+
+Soft skills
+
+• Strong curiosity of the field, proactively seeking opportunity of learning and progress, and staying up-to-date with the newest developments in the field.
+
+• Being at ease with building relationships with people outside of the immediate team and seeking to understand diverse perspectives
+
+• Ability to challenge the proposed methodologies and to provide alternative solutions.
+
+• Result orientation, managing the time efficiently focusing on the mission and providing the highest quality work and precision under the constraint of given resources
+
+• Ability to persuade and influence stakeholders
+
+• Eagerness to take ownership of projects and be autonomous in finding out the next steps.
+
+• Genuine sense of care and respect for people, acting as a team player and proactively supporting colleagues.
+
+BENEFITS
+
+We offer the opportunity to work in a dynamic international environment where the candidate can learn about and work with cutting edge pricing and risk methodologies.
+
+The position allows having a global view on the corporate and institutional banking activity of one of the market leading top tier investment banks. There will always be opportunities to stand out and build an enviable reputation within a business of this size and the candidate will enjoy the benefits of working in an extremely focused and highly professional team with a reputation for delivering excellence.
+
+The position allows for partial work from home in line with internal BNP Paribas applicable rules.
+
+Diversity and inclusion commitment
+
+BNP Paribas Group in Spain is an equal opportunity employer and proud to provide equal employment opportunity to all job seekers. We are actively committed to ensuring that no individual is discriminated against on the grounds of age, disability, gender reassignment, marriage or civil partnership status, pregnancy and maternity/paternity, race, religion or belief, sex or sexual orientation. Equity and diversity are at the core of our recruitment policy because we believe that they foster creativity and efficiency, which in turn increase performance and productivity. We strive to reflect the society we live in, while keeping with the image of our clients.",eyJqb2JfdGl0bGUiOiJTZW5pb3IgUXVhbnRpdGF0aXZlIEFuYWx5c3Qg4oCTIE1hcmtldCBhbmQgQ291bnRlcnBhcnR5IFJpc2sgTW9kZWwgVmFsaWRhdGlvbiIsImNvbXBhbnlfbmFtZSI6IkJOUCBQYXJpYmFzIENvcnBvcmF0ZSBcdTAwMjYgSW5zdGl0dXRpb25hbCBCYW5raW5nIiwiYWRkcmVzc19jaXR5IjoiTWFkcmlkLCBTcGFpbiIsImh0aWRvY2lkIjoia2szaVhxV0s5NmVtSmg5bUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==,Full-time,,2025-06-17 12:33:35.615411,Model Validation Quantitative Analyst,Spain
+Senior Quantitative Analyst – Market and Counterparty Risk Modelling,BNP Paribas,"Madrid, Spain",Groupe BNP Paribas,https://serpapi.com/searches/6851447bab28c6fc2b61a724/images/eebee5906216e99f4b6688a10c79878547526150405e2bf11cd058c859968bd5.png,['Full-time'],"GROUP BNP PARIBAS
+
+BNP Paribas Group is the top bank in the European Union and a major international banking establishment. It has close to 185,000 employees in 65 countries. In Spain we are more than 5,100 employees within 13 business lines.
+
+RISK HUB
+
+RISK is an integrated and independent control function of the BNP Paribas Group. It is the second line of defense on the risk management activities of the Group which are under its direct responsibilities, including credit and counterparty risk, market risk, funding and liquidity risk, interest rate and foreign exchange risks in the banking book, insurance risk, operational risk, and environmental and social risks.
+
+RISK aims at being a partner of the businesses by contributing to their sustainable development, but also a gatekeeper to ensure risks taken remain compatible with the Group’s Risk Appetite and its strategy.
+
+RISK Iberian Hub Madrid is a transversal platform servicing the RISK Function by covering added-value activities around credit risk, market risk, operational risk and data protection. Offering a wide range of services to RISK teams, from consulting to cyber security going through data analysis, modelling or artificial intelligence.
+
+ABOUT THE JOB
+
+MISSION
+
+Systems InteGrated Methods and Analytics (SIGMA) is a team of specialised risk officers with global accountability for the counterparty, market and liquidity risk methodologies within the Bank’s RISK function. It also maintains the internal model methodology for operational risk. Organisationally, it is embedded in the RISK Global Framework department and in particular its RISK Models & Regulatory group. SIGMA’s mission is to develop and continually improve the group’s risk modelling & measurement, analysis and backtesting capabilities. SIGMA is organised in streams, each responsible for a given asset class (IRFX, Credit / Repo, Equity / Commodity) or transversal aspects of risk methods (Cross-Product), as well as a quantitative development / architecture stream. The team’s remit includes internal risk models in use within the Bank, such as VaR, Stressed VaR, IRC and CRM models in the market risk space, as well as EEPE, Stressed EEPE, Regulatory CVA models in the counterparty risk space.
+
+RESPONSIBILITIES
+
+Working in close partnership with other RISK teams and stakeholders (systems, reporting, regulatory, Front Office), the successful candidate will contribute to SIGMA’s mission, taking responsibilities in some of the following areas:
+
+• Participate in methodology projects, gathering and documenting requirements, considering stakeholder interests, regulatory constraints and any potential deficiencies in the current methods exposed by quality assurance processes.
+
+• Investigate, analyse and design risk methods and models, respecting the aims of accurately capturing risks whilst considering system or other environmental constraints.
+
+• Design, develop and test code changes required to implement the risk methods in the risk systems, whilst assisting the technical teams responsible for optimisation and promotion of the code to the production environment.
+
+• Ensure that all methodologies, tools, processes and procedures are documented to a high standard satisfying both internal and regulatory expectations, and that any methodological changes and corresponding decision of governing bodies are promptly reflected in relevant documentation.
+
+• Contribute to the quality assurance processes surrounding risk measurement including backtesting and VaR Adequacy (P&L Explain) process.
+
+• Cooperate with the RISK model validation teams in the review and approval of risk models.
+
+• Support regulatory interactions, participating in industry working groups and Quantitative Impact Studies (QIS).
+
+• In a transactional or advisory capacity, assist risk managers and Front Office in the prompt, accurate and astute risk assessment of deals, where the standard and systematic methods may not be applicable or appropriate.
+
+REQUIREMENTS
+• Candidates with both industry background and academic research background are welcome.
+
+To be successful in this role, the candidate should meet the following requirements:
+• A strong academic background, with at minimum a Masters in mathematics, physics or quantitative finance. Both Masters and Ph.Ds. are welcome.
+• The Department conducts business in English, thus a good command of both verbal and written English is essential.
+
+Further requirements are specified separately for experienced candidates with financial industry background and for experienced candidates with academic research background:
+
+Experienced candidates with financial industry background are welcome from banks, investment companies and consultancies:
+• A strong interest and familiarity with risk management best practises, financial markets and economic developments.
+• Experience in a quantitative finance environment, preferably in a market risk or counterparty risk modelling capacity; other backgrounds (e.g. Front Office quantitative research, model validation, hedge funds) are also welcome.
+• Sound understanding of stochastic processes and their application to risk factor simulations.
+• A practical knowledge of derivatives, their risk drivers and the models used to price them; exposure to at least one of the following asset classes: credit, repo, IR/FX, equity, commodities, preferably from a risk management perspective.
+• Design and implementation of quantitative models, preferably using C# or C++ in a source-controlled environment.
+• The role will expose the candidate to a wide range of professionals within the bank. Therefore, communication skills, both written and verbal, play an essential part of the day-to-day role. Previous experience in interacting with Front Office, validation functions and regulatory or supervisory bodies is a plus.
+• A good understanding and awareness of the regulatory framework for banks is desirable.
+
+Experienced candidates with academic research background are welcome from the range of disciplines: from the field of financial mathematics to broader fields of mathematics, physics and engineering. We welcome both academic and industrial scientists. Successful candidate will be provided internally with on the job training in financial mathematics and banking fundamentals.
+• Candidates expected to have PhD with further research experience.
+• Candidates should demonstrate proven record of research and academic excellence; published work is a plus.
+• More senior candidates are expected to demonstrate leadership in collaborative research projects.
+• The role will expose the candidate to a wide range of professionals within the bank. Therefore, communication skills, both written and verbal, play an essential part of the day-to-day role. Previous experience in joint research with other research teams is a plus.
+• Reasonable coding skills are expected.
+
+In addition, a candidate from any background will have the ability to:
+• Work to meet tight deadlines.
+• Work flexibly as part of multiple teams and autonomously.
+• Grasp the intricacies of governance-related processes and procedures.
+• Juggle changing priorities and a varied workload.
+Candidates able to exhibit a curious mindset and those able to demonstrate a strong intuition for identifying and measuring risks of traded instruments will be preferred.
+
+BENEFITS
+
+• Training programs, career plans and internal mobility opportunities, national and international thanks to our presence in different countries.
+
+• Diversity and Inclusion Committee that ensures an inclusive work environment. In recent years, several employee communities have been created to organize diversity and inclusion awareness actions (PRIDE, We Generations and MixCity).
+
+• Corporate volunteering program (1 Million Hours 2 Help) in which employees can dedicate time out of their working hours to volunteer activities.
+
+• Flexible compensation plan.
+
+• Hybrid telecommuting model (50%).
+
+• 31 vacation days.
+
+Diversity and inclusion commitment
+
+BNP Paribas Group in Spain is an equal opportunity employer and proud to provide equal employment opportunity to all job seekers. We are actively committed to ensuring that no individual is discriminated against on the grounds of age, disability, gender reassignment, marriage or civil partnership status, pregnancy and maternity/paternity, race, religion or belief, sex or sexual orientation. Equity and diversity are at the core of our recruitment policy because we believe that they foster creativity and efficiency, which in turn increase performance and productivity. We strive to reflect the society we live in, while keeping with the image of our clients.",eyJqb2JfdGl0bGUiOiJTZW5pb3IgUXVhbnRpdGF0aXZlIEFuYWx5c3Qg4oCTIE1hcmtldCBhbmQgQ291bnRlcnBhcnR5IFJpc2sgTW9kZWxsaW5nIiwiY29tcGFueV9uYW1lIjoiQk5QIFBhcmliYXMiLCJhZGRyZXNzX2NpdHkiOiJNYWRyaWQsIFNwYWluIiwiaHRpZG9jaWQiOiJTOGJleFJTV1pLTU5ra1ZyQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQiLCJnbCI6InVzIiwiaGwiOiJlbiJ9,Full-time,,2025-06-17 12:33:35.615411,Model Validation Quantitative Analyst,Spain
+Market Risk Quantitative Analyst- Risk HUB,BNP Paribas,"Madrid, Spain",Groupe BNP Paribas,https://serpapi.com/searches/6851447bab28c6fc2b61a724/images/eebee5906216e99f85c025e9510581081b03816f91767e10b2b03965baf6aee0.png,['Full-time'],"I Department Overview
+
+In many respects, banking is the business of managing risks.
+
+At BNP Paribas, our well-developed risk management culture is based on a long-term perspective, a committed management, and a strong and independent risk organisation led by RISK.
+
+Created at the same time as BNP Paribas, RISK is today a global function present in five continents and at the forefront of risk management through best-in-class expertise.
+
+RISK is an integrated and independent function and is part of BNP Paribas's control functions.
+
+It is the independent second line of defence on the risk management activities of the Group which are under its direct responsibilities, including credit and counterparty risk, market risk, funding and liquidity risk, interest rate and foreign exchange risks in the banking book, insurance risk, operational risk and environmental and social risks.
+
+RISK aims at being a partner of the businesses by contributing to their sustainable development, but also a gatekeeper to ensure risks taken remain compatible with the Group’s Risk Appetite and its strategy. RISK teams engage in an upstream dialogue with businesses to better understand their strategy, objectives and then they express their opinions and recommendations.
+
+II Job Description
+
+We currently look for a MODEL RISK AND MODEL VALIDATION ANALYST.
+
+RISK Independent Review & Control (RISK IRC) is a special unit within the RISK organisation and reports directly to the Group CRO. The independent review arm of the department provides second line of defence for the use of various types of models and, accordingly, is in charge of model risk management.
+
+The position in subject is within the team that covers market risk, counterparty risk and valuation risk methodologies. These methodologies are developed and used globally for both regulatory and internal risk management purposes, covering all activities of the Group. These methodologies cover amongst others:
+
+· Market risk internal models like Value-at-Risk (VaR), Stressed VaR, Incremental Risk Capital (IRC) and Comprehensive Risk Measure (CRM) metrics, as well as the new market risk methodologies that are developed to comply with the forthcoming Fundamental Review of the Trading Book (FRTB) regulation. These models cover all asset classes and all products, whether securities or derivatives, including also the market risk management of CVA and funding value adjustment.
+
+· On the counterparty risk side, the Group has developed Potential Future Exposure (PFE), Effective Expected Positive Exposure (EEPE) and CVA Capital Charge measures for various OTC, listed derivatives, prime brokerage and repo trading activities. The bank has implemented also the new Standardised Approach for Counterparty Credit Risk (SA-CCR) metric. Furthermore, the Group has developed and uses various types of margining methodologies, like the standard initial margin model (SIMM) used for non-centrally cleared derivatives.
+
+· On the valuation risk front, various methodologies are used for fair value and prudent value adjustments. These valuation risk methodologies cover amongst others measures for market price uncertainty, for close-out costs, for model risk, for concentrated positions and for future administrative costs.
+
+Sound model risk management practices require that these market risk, counterparty risk and valuation risk metrics, and any new developments, are subject to various types and levels of independent reviews, assessing the conceptual soundness, the proper application and the limitations of these methodologies. The vision of the team is to use the mean of proactive model risk management in order to enable better decisions where decisions rely on model outputs. We have built a franchise of model risk management services advising senior management, supervisory authorities, as well as serving internal clients requiring model risk assessments for existing or new models.
+
+The position in subject is about the model risk management of the abovementioned types of methodologies, performing independent reviews, assessing model limitations, and advising the stakeholders about the level of model risk born by the use of these methodologies. There is a wide range of activities covered by the team. Therefore, the precise scope of the review activity to be covered by the new team member will depend on the exact skills and experience of the candidate, as well as on the personal development plan that will be set for the team member. There is a key focus in the team on personal development. The team members are currently based in Paris, London, New York, Brussels, Madrid, Montreal and Bucharest. Although they are spread across the globe, they all work as a one team. Roles and responsibilities within the team are location agnostic.
+
+The position covers the team members who, under the supervision and guidance of Managers, will perform the review and analyses and present the results. Thanks to their experience, analysts can initiate and put through enhancements to the team’s operation. Model Risk Quantitative Analysts work mostly on independent reviews interacting with the validation managers and with the auditees. The latter usually includes model developers, teams operating the models, and model users. Those stakeholders may be within RISK, within the Business, or within other Group functions.
+
+III Professional Qualifications / Candidate Profile
+
+Required hard skills
+• 2 to 12 years of experience
+• Strong quantitative background, owning an MSc or PhD degree in a quantitative subject, preferably a degree in financial mathematics.
+• This position requires proven professional experience in alignment with the responsibilities.
+• Advanced knowledge of capital markets: how the markets operate, what the liquidity and price observability of the key products are, what the trading venues are, and what the various netting and collateral agreements are.
+• Familiarity with many pricing models as well as with market and counterparty risk modelling techniques.
+• Strong understanding of stochastic processes and derivatives pricing
+• Good understanding of the regulatory requirements for the scope of models being in charge of.
+• In-depth knowledge of model risk management processes, regulatory requirements, internal policies, standards and templates.
+• Advanced programming skills in C++ / C# or other languages (R, Python, Matlab, etc) allowing fast assessment of model features and carrying out comparison of model alternatives.·
+• Experience with model validation techniques and model risk management processes.
+
+Required soft skills
+• Strong curiosity of the field, proactively seeking opportunity of learning and progress, and staying up-to-date with the newest developments in the field.
+• Being at ease with building relationships with people outside of the immediate team and seeking to understand diverse perspectives
+• Ability to challenge the proposed methodologies and to provide alternative solutions.
+• Result orientation, managing the time efficiently focusing on the mission and providing the highest quality work and precision under the constraint of given resources
+• Ability to persuade and influence stakeholders
+• Eagerness to take ownership of projects and be autonomous in finding out the next steps.
+• Genuine sense of care and respect for people, acting as a team player and proactively supporting colleagues.
+
+IV What we offer
+
+We offer the opportunity to work in a dynamic international environment where the candidate can learn about and work with cutting edge pricing and risk methodologies.
+
+The position allows having a global view on the corporate and institutional banking activity of one of the market leading top tier investment banks. There will always be opportunities to stand out and build an enviable reputation within a business of this size and the candidate will enjoy the benefits of working in an extremely focused and highly professional team with a reputation for delivering excellence.
+
+Diversity and Inclusion commitment
+
+BNP Paribas Group in Spain is an equal opportunity employer and proud to provide equal employment opportunity to all job seekers. We are actively committed to ensuring that no individual is discriminated against on the grounds of age, disability, gender reassignment, marriage or civil partnership status, pregnancy and maternity/paternity, race, religion or belief, sex or sexual orientation. Equity and diversity are at the core of our recruitment policy because we believe that they foster creativity and efficiency, which in turn increase performance and productivity. Therefore, on equal terms of qualifications and competencies for the position, the candidate of the underrepresented sex at that level shall have access to the position. We strive to reflect the society we live in, while keeping with the image of our clients.",eyJqb2JfdGl0bGUiOiJNYXJrZXQgUmlzayBRdWFudGl0YXRpdmUgQW5hbHlzdC0gUmlzayBIVUIiLCJjb21wYW55X25hbWUiOiJCTlAgUGFyaWJhcyIsImFkZHJlc3NfY2l0eSI6Ik1hZHJpZCwgU3BhaW4iLCJodGlkb2NpZCI6IkZyaFp4NXhoY1hsbWJMVDVBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCIsImdsIjoidXMiLCJobCI6ImVuIn0=,Full-time,,2025-06-17 12:33:35.615411,Model Validation Quantitative Analyst,Spain
+Credit Risk Business Expert - Quantitative Analyst,Arval,"Madrid, Spain",Groupe BNP Paribas,,"['13 days ago', 'Full-time']","GROUP BNP PARIBAS
+BNP Paribas Group is the top bank in the European Union and a major international banking establishment. It has close to 185,000 employees in 65 countries. In Spain we are more than 5,100 employees within 13 business lines.
+
+ARVAL
+At Arval, our mission is to improve people´s lives by offering mobility services tailored to the needs of our customers, with a clear focus on sustainability mobility. We offer a wide range of innovative solutions and provide a personalized service to our customers, from large corporations to private individuals. With more than 30 years of experience, a presence in thirty countries and a financed fleet of more than 1.5 million vehicles, we are leaders in our sector. Our new strategic plan Arval Beyond prepares us to offer our customers the best sustainable mobility adapted to their needs.
+
+ABOUT THE JOB
+
+MISSION
+Contribute to the continuous improvement of the Department's efficiencies and process, controlling the proper functionality of the business tools and the decision-making tool, ensuring correct use and managing any incident about them.
+Participate in projects as BE, individually or together with the Project Risk Manager, at Department and Transversal level.
+Participate in the development and monitoring of decision models at local level and jointly with Corporate.
+
+RESPONSIBILITIES
+
+■ Lead projects in the first person or participating as BE together with the Project Risk Manager.
+
+■ Participate in transversal initiatives with other business areas.
+
+■ Contribute to continuous improvement initiatives of the department, working together and supporting 1LoD.
+
+■ Assist and advise risk tools users.
+
+■ Manage the incidents of the risk tools.
+
+■ Complete the Controls established on the risk tools and related processes.
+
+■ Decision-making tools. Credit decisions models.
+
+■ Manage risk efficiently by developing quantitative models to keep risk.
+
+■ Model validation. Test and validate risk models to ensure their accuracy and effectiveness. Complete functional tests of decision models- rules.
+
+■ Participate in the definition of KPIs and actions for the continuous improvement of the Department and its monitoring.
+
+■ Identify and define improvements in collaboration with other Business Experts at local level and with counterparts in other countries.
+
+■ Participate in the analysis and management of the different development requests of the Department and the rest of the business, analyzing feasibility and possible impacts.
+
+■ Collaborate with functional and software quality analysts in the drafting of requirements and validation of specifications, as well as in the optimization of systems testing processes.
+
+■ Participate in the Local Committee of Change request.
+
+REQUIREMENTS
+• Studies
+
+University degree: Bachelor's degree.
+
+Complementary:
+
+Knowledge of Credit Analysis.
+
+Knowledge of Decision-making tools. Credit decisions models.
+
+Knowledge of Project Management and Process Improvement. (Desirable).
+
+AGILE certification (Desirable).
+• Experience
+
+· Risk knowledge & awareness.
+
+· Risk management tools.
+
+· Project management and continuous process improvement.
+
+· Credit decision-making tools.
+
+· Credit decision models. Model validation.
+
+· Testing methodology.
+
+· Methodology of analysis and designs of processes and functional. Data processing.
+
+· Computer skills
+
+· Seniority and empowerment to make decisions.
+
+· Ability to organize.
+
+· Anticipation and adaptation.
+
+· Communication skills.
+
+· Interpersonal relationship. Transversal skills.
+
+· Attention to detail/rigor.
+
+Sufficient autonomy and proactivity to complete the function.
+• Languages: English and Spanish
+
+SKILLS
+• Technical
+
+SAS
+SQL
+Dataiku
+Python
+Excel
+• Transversal & Behavioral
+
+Analysis
+
+Networking
+
+Critical Thinking
+
+BENEFITS
+
+• Training programs, career plans and internal mobility opportunities, national and international thanks to our presence in different countries.
+• Diversity and Inclusion Committee that ensures an inclusive work environment. In recent years, several employee communities have been created to organize diversity and inclusion awareness actions (PRIDE, We Generations and MixCity).
+• Corporate volunteering program (1 Million Hours 2 Help) in which employees can dedicate time out of their working hours to volunteer activities.
+• Flexible compensation plan.
+• Hybrid telecommuting model (50%).
+• 22 vacation days.
+• 2 personal days.
+• Day off on Christmas.
+• Half-day off on your birthday.
+• Intensive workday every Friday, and in July and August.
+• Flexible working hours.
+• Life insurance.
+• Health insurance.
+• Meal voucher
+• Fixed salary + variable bonus + profit sharing.
+
+Diversity and inclusion commitment
+BNP Paribas Group in Spain is an equal opportunity employer and proud to provide equal employment opportunity to all job seekers. We are actively committed to ensuring that no individual is discriminated against on the grounds of age, disability, gender reassignment, marriage or civil partnership status, pregnancy and maternity/paternity, race, religion or belief, sex or sexual orientation. Equity and diversity are at the core of our recruitment policy because we believe that they foster creativity and efficiency, which in turn increase performance and productivity. We strive to reflect the society we live in, while keeping with the image of our clients.",eyJqb2JfdGl0bGUiOiJDcmVkaXQgUmlzayBCdXNpbmVzcyBFeHBlcnQgLSBRdWFudGl0YXRpdmUgQW5hbHlzdCIsImNvbXBhbnlfbmFtZSI6IkFydmFsIiwiYWRkcmVzc19jaXR5IjoiTWFkcmlkLCBTcGFpbiIsImh0aWRvY2lkIjoiRUFQemswZkpmV2lmaGpIMkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==,Full-time,13 days ago,2025-06-17 12:33:35.615411,Model Validation Quantitative Analyst,Spain
+Credit Risk Quantitative Analyst - Models and Simulations,BNP Paribas,Spain,Jooble,https://serpapi.com/searches/6851447bab28c6fc2b61a724/images/eebee5906216e99f1563a4cb0cb093fd6e11df66077bd0d2fa528660669b53f2.png,"['20 days ago', 'Full-time']","GRUPO BNP PARIBAS
+
+El Grupo BNP Paribas es el principal banco de la Unión Europea y uno de los más importantes a nivel internacional. Contamos con cerca de 185.000 empleados en 65 países. En España somos más de 5.100 empleados en 13 líneas de negocio.
+
+CIB
+
+BNP Paribas Corporate & Institutional Banking proporciona a grandes empresas, multinacionales e instituciones financieras diversas soluciones en las áreas de asesoramiento, financiación, banca transaccional, mercado de capitales, liquidación, compensación y custodia de valores, servicios de gestión de activos y fondos y soluciones a emisores corporativos. Cuenta con 620 profesionales en España con oficinas en Madrid, Barcelona, Bilbao y A Coruña. La entidad dispone de una red en 56 países.
+• GROUP BNP PARIBAS
+
+BNP Paribas is an international bank with leading positions in the European market. It is present in 74 countries and employs more than 192,000 people, 146,000 of whom are in Europe. The Group holds key positions in its three main areas of activity: Domestic Markets and International Financial Services (whose retail banking and financial services network is part of Retail Banking & Services), as well as Corporate & Institutional Banking, which offers services to corporate and institutional clients. The Group supports its customers (individuals, entrepreneurs, SMEs, large companies and institutions) to help them carrying out their projects by providing financing, investment, savings and insurance services.
+
+In Europe, the Group has four domestic markets (Belgium, France, Italy and Luxembourg) and BNP Paribas Personal Finance is number one in retail financing in Europe.
+
+BNP Paribas is developing its integrated retail banking model in the Mediterranean countries, Turkey, Eastern Europe and has an important network on the US West Coast. In both its Corporate & Institutional Banking and International Financial Services activities, BNP Paribas has leading positions in Europe, a strong presence in the Americas and a solid and growing network in the Asia-Pacific region.
+• Entity: Platform Risk
+
+RISK is an integrated and independent control function of the BNP Paribas Group. It is the second line of defense on the risk management activities of the Group which are under its direct responsibilities, including credit and counterparty risk, market risk, funding and liquidity risk, interest rate and foreign exchange risks in the banking book, insurance risk, operational risk, and environmental and social risks.
+
+RISK aims at being a partner of the businesses by contributing to their sustainable development, but also a gatekeeper to ensure risks taken remain compatible with the Group’s Risk Appetite and its strategy.
+
+RISK Iberian Hub Madrid is a transversal platform servicing the RISK Function by covering added-value activities around credit risk, market risk, operational risk and data protection. Offering a wide range of services to RISK teams, from consulting to cyber security going through data analysis, modelling or artificial intelligence. ""
+• About the Role
+
+MISSION :
+
+As senior Credit quantitative analyst you will contribute to modeling, simulations, calibration or performance analysis of models (probability of default, loss given default, forward-looking,etc) for the BNP Paribas Group RISK quantitative teams.
+
+RESPONSIBILITIES:
+
+You will operate in immersion in your internal client environment on specific strategic projects or in the context of temporary peak of activity in the client business as usual.
+
+Important diversity in the missions:
+
+You will develop statistical methodologies, innovative and robust estimations, measure of conservatism, stability and performance or you will produce the simulations on credit risk.
+
+You will also contribute to the integration of ESG risks (e.g. climate transition risk, fairness of the models) in the Group risk management framework.
+
+You develop and test codes for methodology implementation in the internal systems and may be in relation with the users of the systems for training purpose for example.
+
+You contribute to interactions with supervisors of the banking sector, participating to working groups, allowing the closure of regulatory recommendations or with the quantification od the impacts.
+
+In the context of increasing needs in modeling and simulations in the risk management of the Bank, the RISK Quant Force (RQF) is a new team with a functional link to the heads of Group risk management modeling and simulations. The team is composed of quantitative experts and data scientists wich contribute to the quantitative activity of the BNP Paribas Group Risk management teams in the different entities.
+
+You will integrate your internal client team during the mission while having benefit from interactions with the other experts in the RQF and integrating a community of 800 « Quant » in the risk management teams of the Group.
+
+The RQF you will join is based in Madrid.
+
+REQUIREMENTS :
+
+Training
+• University degree in computer science, economics, mathematics,
+• 3 years of significant quantitative analysis experience in Credit risk
+Experience:
+• At least 2-year experience as data scientist in an agile, innovation-oriented team.
+• In particular, experience translating customer needs into data science solutions, experience developing models to address customer needs, experience deploying model into production and providing support and explanations to end-users.""
+
+Languages:
+• ENGLISH: Fluent
+• FRENCH: Optional
+• SKILLS:
+
+Technical:
+• Good knowledge of the IFRS9 standard and CRR requirements.
+• Experience coding in Python, PySpark and in Data Management and Data Viz (SQL, Tableau, Dataiku), basic knowledge in SAS will be an advantage.""
+
+Transversal & Behavioral:
+• Analytical Ability
+• Attention to detail/rigor
+• Adaptability
+
+BENEFITS:
+• Training programs, career plans and internal mobility opportunities, national and international thanks to our presence in different countries.
+• Diversity and Inclusion Committee that ensures an inclusive work environment. In recent years, several employee communities have been created to organize diversity and inclusion awareness actions (PRIDE, We Generations and MixCity).
+• Corporate volunteering program (1 Million Hours 2 Help) in which employees can dedicate time out of their working hours to volunteer activities.
+• Flexible compensation plan
+• Hybrid telecommuting model (50%)
+• 31 vacation days
+
+Diversity and Inclusion commitment
+
+BNP Paribas Group in Spain is an equal opportunity employer and proud to provide equal employment opportunity to all job seekers. We are actively committed to ensuring that no individual is discriminated against on the grounds of age, disability, gender reassignment, marriage or civil partnership status, pregnancy and maternity/paternity, race, religion or belief, sex or sexual orientation. Equity and diversity are at the core of our recruitment policy because we believe that they foster creativity and efficiency, which in turn increase performance and productivity. We strive to reflect the society we live in, while keeping with the image of our clients.",eyJqb2JfdGl0bGUiOiJDcmVkaXQgUmlzayBRdWFudGl0YXRpdmUgQW5hbHlzdCAtIE1vZGVscyBhbmQgU2ltdWxhdGlvbnMiLCJjb21wYW55X25hbWUiOiJCTlAgUGFyaWJhcyIsImFkZHJlc3NfY2l0eSI6IlNwYWluIiwiaHRpZG9jaWQiOiJIZzN3dUZ0RlZPbVJGdkZ1QUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQiLCJnbCI6InVzIiwiaGwiOiJlbiJ9,Full-time,20 days ago,2025-06-17 12:33:35.615411,Model Validation Quantitative Analyst,Spain
+Quantitative Risk Manager,beBee Careers,"Toledo, Spain",BeBee,https://serpapi.com/searches/6851447bab28c6fc2b61a724/images/eebee5906216e99ff813cd050466af982d11695b316c3a4b5744842062870724.png,"['7 days ago', 'Full-time']","Market Risk Modeler
+
+We are seeking a skilled Market Risk Modeler to develop and validate trading book market risk models in a fast-paced and dynamic environment.
+• The ideal candidate will have a strong understanding of model theory, calibration techniques, and dynamics of one-factor interest rate models, including the Hull-White model.
+• Pricing and risk modeling for fixed income trading products, with a focus on leveraged loans, is an essential skill.
+• Advanced Python programming skills, with hands-on experience in testing financial models, are required.
+• Experience with Numerix or comparable vendor-based modeling systems is necessary.
+• A proficient ability to design and validate Profit and Loss (PnL) attribution frameworks is expected.
+• Deep knowledge of market risk concepts and regulatory standards, including Value at Risk (VaR) using historical simulation, model sensitivity analysis (Greeks), and model validation practices aligned with SR 11-7 guidelines, is required.
+• Demonstrated expertise in drafting detailed test plans, model development documentation, and implementation guides is also essential.
+• An advanced degree (Master's or Ph.D.) in a quantitative discipline such as Finance, Physics, Mathematics, Statistics, Computer Science, or Quantitative Finance, with a strong background in modeling, is necessary.
+• A minimum of 3-5 years of experience in developing and/or validating trading book market risk models within the financial services industry is expected.
+• Proficiency in Spanish and English is required.",eyJqb2JfdGl0bGUiOiJRdWFudGl0YXRpdmUgUmlzayBNYW5hZ2VyIiwiY29tcGFueV9uYW1lIjoiYmVCZWUgQ2FyZWVycyIsImFkZHJlc3NfY2l0eSI6IlRvbGVkbywgU3BhaW4iLCJodGlkb2NpZCI6InB0bXcwYVh6dzBTeF82TEhBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCIsImdsIjoidXMiLCJobCI6ImVuIn0=,Full-time,7 days ago,2025-06-17 12:33:35.615411,Model Validation Quantitative Analyst,Spain
+Frtb Analyst,buscojobs España,"Madrid, Spain",Recruit.net,https://serpapi.com/searches/6851447bab28c6fc2b61a724/images/eebee5906216e99f1f2a24d3aaaac44379bf575fe85053b7a96406495082850f.jpeg,"['11 hours ago', 'Full-time']","Como FRTB IMA Analyst tu objetivo será garantizar la correcta disponibilidad de las métricas para el cálculo del capital IMA (Modelo Interno Avanzado) analizando la completitud e integridad de información que se emplea en los cálculos.
+
+Necesitamos a alguien como tú para que nos ayude en distintos ámbitos :
+• Monitorización del circuito e2e para el cálculo de las métricas de Capital FRTB IMA, realizando análisis de completitud e integridad de información, así como monitorización y revisión de las cifras calculadas.
+• Reporte de informe de situación diaria, de cierre de mes y de trimestre tras las revisiones y análisis realizados
+• Seguimiento de incidencias tecnológicas y operativas del proceso e2e
+• Coordinación de equipos involucrados en la gestión de incidencias hasta su resolución, así como gestión de reprocesos
+• Realización de call adhoc para el seguimiento y resolución de las incidencias con los equipos involucrados
+• Participación en proyectos e iniciativas, así como propuesta de mejoras en el circuito
+• Al menos dos años trabajando en áreas de productos financieros
+• Licenciado en ramas de Economía / Ade o Ingeniería Técnica o Informática
+
+Inglés medio-alto, capacidad de comunicación con fluidez tanto oral como escrito.
+
+Destreza en el uso de suite office.
+
+Valorable capacidad de creación / gestión macros VBA.
+
+Valorables conocimientos en python / scripting.
+
+Comunicación efectiva y coordinación con el resto de sus compañeros
+Crear una alerta de empleo para esta búsqueda
+
+Analyst • Poligono Industrial Alcobendas, España
+#J-18808-Ljbffr",eyJqb2JfdGl0bGUiOiJGcnRiIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJidXNjb2pvYnMgRXNwYcOxYSIsImFkZHJlc3NfY2l0eSI6Ik1hZHJpZCwgU3BhaW4iLCJodGlkb2NpZCI6ImZvM3lhNGViSWFHd1Ffc0hBQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCIsImdsIjoidXMiLCJobCI6ImVuIn0=,Full-time,11 hours ago,2025-06-17 12:33:35.615411,Model Validation Quantitative Analyst,Spain
+Credit Risk Model Validation Specialist,BNP Paribas Corporate & Institutional Banking,"Madrid, Spain",Groupe BNP Paribas,https://serpapi.com/searches/6851447f80c963b0550797b3/images/3be60206993b40db7abe3ba8d71aae920b4f2f5e59ee0bec3922cc67b55312bd.jpeg,"['Full-time', 'No degree mentioned']","The role
+
+As a Credit Risk Model Validation Specialist you will participate in the Review, Oversight and monitoring of all Credit Risk Models in force within BNP Paribas such as (IFRS9, Scoring Models, IRB, Stress Testing and ICAAP) and you would play a major role in the definition and challenge of BNP’s global modelling convergence across entities by helping in reaching full compliance with European Banking Regulations such as (CRD, CRR, Basel IV).
+
+Additionally, the role may occasionally require reviewing and assessing other models that may affect any of the credit risk cycle decision making process including ESG related models and would require an ongoing monitoring to ensure that existing models implemented meet Group’s requirements in terms of performance (Review of Estimates and Backtesting)
+
+As such, you will join an international team named - RISK Independent Review and Control - with presence in up to 9 countries comprised by a wide range of experienced and skilled professionals in the Credit Risk Domain that would give you the chance to liaise with senior executive members across BNP’s Paribas RISK organization– including Model Development teams, Internal Audit and Risk Officers - across the different entities BNPP has in several locations including BNL – Italy , Fortis – Belgium , BNPP – France , BGL – Luxembourg .
+
+The role would additionally encompass participating in the validation of to the Group’s Global Corporate Models including Asset Finance, Large Corporates, LBO, Financial Institutions) and would require a frequent interaction with regulatory bodies (ECB , ACPR).
+
+The role’s location:
+
+The current position herein offered is based in Madrid where the BNP’s MADRID RISK HUB is based joining a large community of Risk Professionals in the domains of Big Data and Artificial Intelligence, Operational Risk Control , Credit Market and Counterparty Risk, Cyber Security and Project Management.
+
+Hybrid working policy with significant flexibility to work from home is offered.
+
+What we are looking for:
+
+Up to three candidates are being sought by the Independent Review and Control, candidates should:
+• Show a strong statistical knowledge in the domains of (statistical inference and probability, clustering, time series forecasting).
+• Show strong critical thinking and passion for learning.
+• Knowledge of the latest regulatory requirements including (NDOD, Basel IV, EBA Guidelines, IFRS9, CRR/CRD, Collateral eligibility, ECB Guide to Internal Models).
+• Have previous experience in the development and/or the Validation of both Retail and Corporate/Global models.
+• Knowledge of SAS.
+• Have good communication and synthesis skills.
+• Have had previous experience in liaising with regulatory bodies such as (ECB, ACPR,Bank of Spain) and has participated in on-site missions such as IMI and OSI.
+• Be fluent in English both written and spoken.
+• Be rigorous and have the capacity to work on its own.
+• Have a good team-spirit and passion for collaboration.
+• Knowledge of Machine Learning algorithms and prior experience with Python and R programming will be positively taken into consideration.
+
+About BNP Paribas
+
+BNP Paribas is the top bank in the European Union and a major international banking establishment. It has close to 190,000 employees in 65 countries, including almost 145,000 in Europe and around 4.700 employees in Spain only.
+
+As a first-tier international banking group, BNP Paribas possesses leading platforms and businesses in Europe, a deep footprint in the Americas, and a solid, fast-growing set-up in the Asia-Pacific region. In Europe, BNP Paribas has four domestic markets: Belgium, France, Italy and Luxembourg. It also deploys its integrated retail banking model in countries of the Mediterranean rim, in Turkey and in Eastern Europe.
+
+With nearly 190,000 employees, BNP Paribas is present in 65 countries.",eyJqb2JfdGl0bGUiOiJDcmVkaXQgUmlzayBNb2RlbCBWYWxpZGF0aW9uIFNwZWNpYWxpc3QiLCJjb21wYW55X25hbWUiOiJCTlAgUGFyaWJhcyBDb3Jwb3JhdGUgXHUwMDI2IEluc3RpdHV0aW9uYWwgQmFua2luZyIsImFkZHJlc3NfY2l0eSI6Ik1hZHJpZCwgU3BhaW4iLCJodGlkb2NpZCI6InV6VDRNREZfdmlLdDZkR21BQUFBQUE9PSIsInV1bGUiOiJ3K0NBSVFJQ0lGVTNCaGFXNCIsImdsIjoidXMiLCJobCI6ImVuIn0=,Full-time,,2025-06-17 12:33:38.246026,Model Validation Analyst,Spain
+Senior Quantitative Analyst – Market and Counterparty Risk Model Validation,BNP Paribas Corporate & Institutional Banking,"Madrid, Spain",Groupe BNP Paribas,https://serpapi.com/searches/6851447f80c963b0550797b3/images/3be60206993b40db00c4f3d7799796969e6b6d689f5fcf8142a02a85796cb180.jpeg,['Full-time'],"GROUP BNP PARIBAS
+BNP Paribas Group is the top bank in the European Union and a major international banking establishment. It has close to 185,000 employees in 65 countries. In Spain we are more than 5,100 employees within 13 business lines.
+
+RISK HUB
+
+RISK is an integrated and independent control function of the BNP Paribas Group. It is the second line of defense on the risk management activities of the Group which are under its direct responsibilities, including credit and counterparty risk, market risk, funding and liquidity risk, interest rate and foreign exchange risks in the banking book, insurance risk, operational risk, and environmental and social risks.
+
+RISK aims at being a partner of the businesses by contributing to their sustainable development, but also a gatekeeper to ensure risks taken remain compatible with the Group’s Risk Appetite and its strategy.
+
+RISK Iberian Hub Madrid is a transversal platform servicing the RISK Function by covering added-value activities around credit risk, market risk, operational risk and data protection. Offering a wide range of services to RISK teams, from consulting to cyber security going through data analysis, modelling or artificial intelligence.
+
+ABOUT THE JOB
+
+MISSION and RESPONSIBILITIES
+
+RISK Independent Review & Control (RISK IRC) is a special unit within the RISK organisation and reports directly to the Group CRO. The independent review arm of the department provides second line of defence for the use of various types of models and, accordingly, is in charge of model risk management.
+
+The position in subject is within the team that covers market risk, counterparty risk and valuation risk methodologies. These methodologies are developed and used globally for both regulatory and internal risk management purposes, covering all activities of the Group. These methodologies cover amongst others:
+
+· Market risk internal models like Value-at-Risk (VaR), Stressed VaR, Incremental Risk Capital (IRC) and Comprehensive Risk Measure (CRM) metrics, as well as the new market risk methodologies that are developed to comply with the forthcoming Fundamental Review of the Trading Book (FRTB) regulation. These models cover all asset classes and all products, whether securities or derivatives, including also the market risk management of CVA and funding value adjustment.
+
+· On the counterparty risk side, the Group has developed Potential Future Exposure (PFE), Effective Expected Positive Exposure (EEPE) and CVA Capital Charge measures for various OTC, listed derivatives, prime brokerage and repo trading activities. The bank has implemented also the new Standardised Approach for Counterparty Credit Risk (SA-CCR) metric. Furthermore, the Group has developed and uses various types of margining methodologies, like the standard initial margin model (SIMM) used for non-centrally cleared derivatives.
+
+· On the valuation risk front, various methodologies are used for fair value and prudent value adjustments. These valuation risk methodologies cover amongst others measures for market price uncertainty, for close-out costs, for model risk, for concentrated positions and for future administrative costs.
+
+Sound model risk management practices require that these market risk, counterparty risk and valuation risk metrics, and any new developments, are subject to various types and levels of independent reviews, assessing the conceptual soundness, the proper application and the limitations of these methodologies. The vision of the team is to use the mean of proactive model risk management in order to enable better decisions where decisions rely on model outputs. We have built a franchise of model risk management services advising senior management, supervisory authorities, as well as serving internal clients requiring model risk assessments for existing or new models.
+
+The position in subject is about the model risk management of the abovementioned types of methodologies, performing independent reviews, assessing model limitations, and advising the stakeholders about the level of model risk born by the use of these methodologies. There is a wide range of activities covered by the team. Therefore, the precise scope of the review activity to be covered by the new team member will depend on the exact skills and experience of the candidate, as well as on the personal development plan that will be set for the team member. There is a key focus in the team on personal development. The team members are currently based in Paris, London, New York, Brussels, Madrid, Montreal and Bucharest. Although they are spread across the globe, they all work as a one team. Roles and responsibilities within the team are location agnostic.
+
+The position covers the team members who, under the supervision and guidance of Managers, will perform the review and analyses and present the results. Thanks to their experience, analysts can initiate and put through enhancements to the team’s operation. Model Risk Quantitative Analysts work mostly on independent reviews interacting with the validation managers and with the auditees. The latter usually includes model developers, teams operating the models, and model users. Those stakeholders may be within RISK, within the Business, or within other Group functions.
+
+REQUIREMENTS
+
+Hard skills
+
+• 5 to 15 years of experience
+
+• Strong quantitative background, owning an MSc or PhD degree in a quantitative subject, preferably a degree in financial mathematics.
+
+• This position requires proven professional experience in alignment with the responsibilities.
+
+• Advanced knowledge of capital markets: how the markets operate, what the liquidity and price observability of the key products are, what the trading venues are, and what the various netting and collateral agreements are.
+
+• Familiarity with many pricing models as well as with market and counterparty risk modelling techniques.
+
+• Strong understanding of stochastic processes and derivatives pricing
+
+• Good understanding of the regulatory requirements for the scope of models being in charge of.
+
+• In-depth knowledge of model risk management processes, regulatory requirements, internal policies, standards and templates.
+
+• Advanced programming skills (C++ / C#, R, Python, Matlab, etc) allowing fast assessment of model features and carrying out comparison of model alternatives.·
+
+• Experience with model validation techniques and model risk management processes.
+
+Soft skills
+
+• Strong curiosity of the field, proactively seeking opportunity of learning and progress, and staying up-to-date with the newest developments in the field.
+
+• Being at ease with building relationships with people outside of the immediate team and seeking to understand diverse perspectives
+
+• Ability to challenge the proposed methodologies and to provide alternative solutions.
+
+• Result orientation, managing the time efficiently focusing on the mission and providing the highest quality work and precision under the constraint of given resources
+
+• Ability to persuade and influence stakeholders
+
+• Eagerness to take ownership of projects and be autonomous in finding out the next steps.
+
+• Genuine sense of care and respect for people, acting as a team player and proactively supporting colleagues.
+
+BENEFITS
+
+We offer the opportunity to work in a dynamic international environment where the candidate can learn about and work with cutting edge pricing and risk methodologies.
+
+The position allows having a global view on the corporate and institutional banking activity of one of the market leading top tier investment banks. There will always be opportunities to stand out and build an enviable reputation within a business of this size and the candidate will enjoy the benefits of working in an extremely focused and highly professional team with a reputation for delivering excellence.
+
+The position allows for partial work from home in line with internal BNP Paribas applicable rules.
+
+Diversity and inclusion commitment
+
+BNP Paribas Group in Spain is an equal opportunity employer and proud to provide equal employment opportunity to all job seekers. We are actively committed to ensuring that no individual is discriminated against on the grounds of age, disability, gender reassignment, marriage or civil partnership status, pregnancy and maternity/paternity, race, religion or belief, sex or sexual orientation. Equity and diversity are at the core of our recruitment policy because we believe that they foster creativity and efficiency, which in turn increase performance and productivity. We strive to reflect the society we live in, while keeping with the image of our clients.",eyJqb2JfdGl0bGUiOiJTZW5pb3IgUXVhbnRpdGF0aXZlIEFuYWx5c3Qg4oCTIE1hcmtldCBhbmQgQ291bnRlcnBhcnR5IFJpc2sgTW9kZWwgVmFsaWRhdGlvbiIsImNvbXBhbnlfbmFtZSI6IkJOUCBQYXJpYmFzIENvcnBvcmF0ZSBcdTAwMjYgSW5zdGl0dXRpb25hbCBCYW5raW5nIiwiYWRkcmVzc19jaXR5IjoiTWFkcmlkLCBTcGFpbiIsImh0aWRvY2lkIjoia2szaVhxV0s5NmVtSmg5bUFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==,Full-time,,2025-06-17 12:33:38.246026,Model Validation Analyst,Spain
+Non Financial Risk Internal Validation Model Analyst,Santander,"Boadilla del Monte, Spain",Trabajo.org,https://serpapi.com/searches/6851447f80c963b0550797b3/images/3be60206993b40dbb373d48e5bedcf39a892519bc36714f9d6ff5e3345f2e741.png,"['11 days ago', 'Full-time']","Non Financial Risk Internal Validation Model Analyst
+
+Country: Spain
+• *WHAT YOU WILL BE DOING**
+• *RISKS is looking for a NON FINANCIAL RISK (NFR) INTERNAL MODEL VALIDATION ANALYST (QUANTITATIVE ANALYSIS), based in our HEADQUARTERS (BOADILLA DEL MONTE) office.**
+• *WHY YOU SHOULD CONSIDER THIS OPPORTUNITY**
+• *Credit Risk, Interest Rate Risk, liquidity risk, operational risk, reputational risk**There are many types of risks, that's why it analysis and quantification is key for our purpose of being a Simple, Personal and Fair bank.
+
+Working on risks means doing it from a management perspective that contributes to the sustainable progress of people and companies.
+
+Santander is proud of being an organization where there are equal opportunities regardless of gender identity, culture and disability. Our mission is to contribute to help more people and business prosper.
+• *WHAT YOU WILL BE DOING**
+
+As a **NFR Internal Model Validation Analyst, **you will be part of is responsible, among others, for the independent validation of those models from the Economic Research area (forecasting), Compliance, Insurance, Operational risk and Pensions. The modelling techniques include a rich variety of mathematics, ranging from statistics, stochastic processes, differential geometry, algebra or Machine Learning techniques.
+
+We need someone like you to help us in different fronts:
+
+- The validation process consists in the analysis of the following key areas: Mathematical model foundations, model performance and sensitivities, model infrastructure, data and model usages. Most of the analysis is based on our own challenge models (Python) plus a close interaction with the model owners and users of all geographies in Santander. Besides, there is a fluent communication with the Internal and External Audit functions as well as with other validation hubs.
+- As part of the Risk function (2nd LoD), the aforementioned analysis is embedded within the model risk assessment and concludes with a validation report (normally built with LaTeX), findings and a model risk rating.
+- The non-financial unit fosters a collaboration atmosphere, open environment, constant innovation, accuracy and attention to detail. Being on the edge is key to the function, so the team regularly prepares internal courses and seminars on relevant research topics.
+• *WHAT ARE WE LOOKING FOR**
+
+EXPERIENCE
+- 2-3 years of relevant experience.
+
+EDUCATION
+- University studies with a very strong background in mathematics and computer science; also valuable are economy and actuarial sciences. PhD and publications would be a plus.
+
+SKILLS & KNOWLEDGE
+- High level in designing and coding in some programming language, preferably Python.
+- Proficiency in English, both written and spoken.
+- Self-motivated person, completely result-oriented with focus on automation and quality.
+- Ability to work well both independently and collaboratively as a member of the team.
+- Will to keep up with the latest research and prepare internal presentations and seminars.",eyJqb2JfdGl0bGUiOiJOb24gRmluYW5jaWFsIFJpc2sgSW50ZXJuYWwgVmFsaWRhdGlvbiBNb2RlbCBBbmFseXN0IiwiY29tcGFueV9uYW1lIjoiU2FudGFuZGVyIiwiYWRkcmVzc19jaXR5IjoiQm9hZGlsbGEgZGVsIE1vbnRlLCBTcGFpbiIsImh0aWRvY2lkIjoiWE9lV3FLdWlIV3llVWkwaEFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==,Full-time,11 days ago,2025-06-17 12:33:38.246026,Model Validation Analyst,Spain
+Principal Audit Analyst - Validations (f/m/x),"0843 Deutsche Bank Aktiengesellschaft, Filiale Madrid",Spain,Workday,,['Full-time'],"Job Description: Join the Deutsche Bank Global Internal Audit Team as an Associate in the Validations team located in Madrid. In this role, you will manage validations of Significant Findings across the team, ensuring timely, high-quality, and budget-compliant completion. Your responsibilities will include assessing finding validations through walkthroughs, risk and control identification, test plan definition, and conclusions based on the test plans. You will benefit from comprehensive coaching and training within our supportive environment, enabling you to excel in your role. Collaborating with your team, you will cultivate a cooperative atmosphere characterized by trust, cooperation, and shared objectives that drive your success. Enjoy the advantages of flexible working arrangements, mentoring, and work-life balance while contributing to a dynamic and innovative team that prioritizes diversity and inclusion. As a global function of approximately 850 team members, Group Audit (GA) is the bank's 'Third Line of Defence' acting as an independent and forward-looking challenger and adviser to Senior Management. We are also strongly relied upon by local regulators. We closely partner and collaborate with all Group business and infrastructure areas. This includes the Investment Bank, Corporate Bank and International Private Bank businesses, and Technology, Anti-Financial Crime, Compliance, Risk, Finance and Operations infrastructure functions. A diverse and inclusive culture is at the core of our team dynamic, with strong corporate and ethical governance as a driving philosophy. New joiners are supported with a structured and comprehensive career programme. Responsibilities You will perform design and operating effectiveness testing of key controls to mitigate risks identified in findings, and document test results in the Audit Work Paper management tool in accordance with Group Audit Methodology. You will handle finding tracking and stakeholder negotiations for findings in the responsibility of the Validation Team. You will complete work assignments within agreed deadlines and timely escalate challenges. You will foster open dialogue and communication with colleagues across different locations within the global Validations Team and partner in providing subject matter expertise for relevant underlying business process controls. You will proactively develop and maintain professional working relationships with colleagues, the business, and respective support areas, and act as a natural role model. Skills You’ll Need: Experience in Audit, Risk Management, or Information Security. Bachelor's degree in Accounting, Finance, or related field. Advanced degree and professional certification preferred. Strong English communication skills, especially in conflict situations. Excellent analytical skills to identify control deficiencies and risk. Organized, proactive, and innovative with ability to meet targets efficiently. Ability to handle pressure, multitask, and prioritize workload. Well-being & Benefits Emotionally and mentally balanced: We support you in dealing with life crises, maintaining stability through illness, and maintaining good mental health. Benefit from initiatives such as counseling and support in difficult life situations and a culture where you can openly speak about mental health. Physically thriving: We support you managing your physical health by taking appropriate preventive measures and providing a workplace that helps you thrive. For example, discount in gyms, annual medical check up's, standing desks, ... Socially connected: We strongly believe in collaboration, inclusion and feeling connected to open up new perspectives and strengthen our self confidence and well being. Benefits vary from different types of paid and unpaid leave, hybrid model of remote working (for some positions …) Financially secure: We support you to meet personal financial goals during your active career and for the future. Benefit from meal allowance, pension contribution plans, banking services for employees, flex compensation program... We strive for a culture in which we are empowered to excel together every day. This includes acting responsibly, thinking commercially, taking initiative and working collaboratively. Together we share and celebrate the successes of our people. Together we are Deutsche Bank Group. We welcome applications from all people and promote a positive, fair and inclusive work environment. For over 150 years, our dedication to being the Global Hausbank for our clients has been driven by our people – in around 60 countries and across more than 150 nationalities. Their deep understanding, insights, expertise, and passion help our clients navigate an increasingly complex world – be it in our Corporate Bank, our Private Bank, our Investment Bank or our Asset Management (DWS) division. Together we can make a great impact for our clients at home and abroad, securing their lasting success and financial security. More information at: Deutsche Bank Careers (db.com)",eyJqb2JfdGl0bGUiOiJQcmluY2lwYWwgQXVkaXQgQW5hbHlzdCAtIFZhbGlkYXRpb25zIChmL20veCkiLCJjb21wYW55X25hbWUiOiIwODQzIERldXRzY2hlIEJhbmsgQWt0aWVuZ2VzZWxsc2NoYWZ0LCBGaWxpYWxlIE1hZHJpZCIsImFkZHJlc3NfY2l0eSI6IlNwYWluIiwiaHRpZG9jaWQiOiJVeXJoekVKSUw5YnFPNDAxQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQiLCJnbCI6InVzIiwiaGwiOiJlbiJ9,Full-time,,2025-06-17 12:33:38.246026,Model Validation Analyst,Spain
+Analyst - Single Validation Office,Santander,"Boadilla del Monte, Spain",Trabajo.org,https://serpapi.com/searches/6851447f80c963b0550797b3/images/3be60206993b40dbf4e8f8f5321339a9ef3bbc47b848afff7367e81047d8bc7f.png,"['2 days ago', 'Full-time']","Analyst - Single Validation Office
+
+Country: Spain
+• *WHAT YOU WILL BE DOING**
+• *La división de Riesgos está buscando un/a Analyst
+- Single Validation Office para nuestras oficinas en Boadilla del Monte.**
+• *POR QUÉ DEBERÍAS CONSIDERAR ESTA OPORTUNIDAD**
+• *Riesgo de crédito, Riesgo de tipos de interés, Riesgo de liquidez, Riesgo operacional, Riesgo reputacional... **Hay mucho tipos de riesgos, por ello su análisis y cuantificación es clave para nuestro propósito de ser un banco, Simple, Personal y Justo.
+
+Trabajar en riesgos significa hacerlo desde una perspectiva de gestión que contribuya al progreso sostenible de las personas y las empresas.
+
+Santander se enorgullece de ser una organización donde hay igualdad de oportunidades, independientemente de raza, sexo, religión, edad, orientación sexual, estado civil discapacidad, nacionalidad o identidad de género.
+• *QUÉ HARÁS EN TU TRABAJO**
+
+Como **Analyst - Single Validation Office **tu objetivo será participar en la transformación de las funciones de Validación Interna del Grupo a través del Single Validation Office, reforzando el seguimiento de las unidades de validación interna y garantizando el correcto cumplimiento de los requerimientos regulatorios y estándares de validación interna, asegurando la máxima calidad y completitud de los entregables.
+
+Necesitamos a alguien como tú para que nos ayude en distintos ámbitos:
+
+- Participación en la ejecución de los planes de transformación de la función de Validación Interna en línea con la estrategia del área de Riesgo de Modelo del Grupo
+- Seguimiento reforzado de las unidades de Validación Interna asegurando que cumplen con los procedimientos, políticas y estándares definidos
+- Seguimiento de la planificación de las validaciones
+- Asegurar la consistencia y homogeneidad de las validaciones realizadas por los equipos de Validación Interna
+- Garantizar que los modelos regulatorios / regulados cumplen con todos los requerimientos normativos velando por la máxima calidad y completitud de los entregables relacionados con este tipo de modelos.
+
+EXPERIENCIA
+- Más de 4 años en puestos similares o temas relevantes para la posición
+
+EDUCACIÓN
+- Ingeniería, Licenciatura en Matemáticas, Físicas, Economía o ADE, etc Deseable especialización de postgrado en finanzas.
+
+HABILIDADES & CONOCIMIENTOS
+- Conocimientos avanzados de riesgo de modelo
+- Nível avanzado de inglés (C1)",eyJqb2JfdGl0bGUiOiJBbmFseXN0IC0gU2luZ2xlIFZhbGlkYXRpb24gT2ZmaWNlIiwiY29tcGFueV9uYW1lIjoiU2FudGFuZGVyIiwiYWRkcmVzc19jaXR5IjoiQm9hZGlsbGEgZGVsIE1vbnRlLCBTcGFpbiIsImh0aWRvY2lkIjoiTFlxVGttN2tfWWhsYzVoTkFBQUFBQT09IiwidXVsZSI6IncrQ0FJUUlDSUZVM0JoYVc0IiwiZ2wiOiJ1cyIsImhsIjoiZW4ifQ==,Full-time,2 days ago,2025-06-17 12:33:38.246026,Model Validation Analyst,Spain
+Credit Risk Internal Validation Analyst,Santander,"Boadilla del Monte, Spain",Trabajo.org,https://serpapi.com/searches/6851447f80c963b0550797b3/images/3be60206993b40db922053d602ee08cca7c2349ed8445e363dbe6e72d2266944.png,"['21 hours ago', 'Full-time']","Credit Risk Internal Validation Analyst
+
+Country: Spain
+• *WHAT YOU WILL BE DOING**
+• *RISKS **is looking for a **CREDIT RISK INTERNAL VALIDATION ANALYST **, based in our **BOADILLA DEL MONTE (HEADQUARTERS) **office.
+• *WHY YOU SHOULD CONSIDER THIS OPPORTUNITY**
+• *Credit Risk, Interest Rate Risk, liquidity risk, operational risk, reputational risk**There are many types of risks, that's why it analysis and quantification is key for our purpose of being a Simple, Personal and Fair bank.
+
+Working on risks means doing it from a management perspective that contributes to the sustainable progress of people and companies.
+• *WHAT YOU WILL BE DOING**
+
+As a **Credit Risk Internal Validation Analyst **, you will be part of the credit risk model validation team, which is responsible for the validation of every new credit risk model. Models should be properly designed, tested, validated and approved before they can be used for risk management purposes, and every existing model being used has to be periodically monitored, calibrated and if necessary, modified or replaced, once it has been properly validated and approved.
+
+We need someone like you to help us in different fronts:
+
+- Conduct a critical analysis to understand the model and its assumptions.
+- Perform a critical analysis of the data used to build the model and the methods applied for the sample selection.
+- Execute a critical analysis of the technological environment were the model will be used assessing its implementation in production systems.
+- Assess the performance of the model.
+- Review the monitoring and the back testing results performed by model users and/or developers.
+- Engage in a continuous and fluent relationship with different stakeholders: model owners, portfolio managers, model developers and external parties.
+- Be able to provide an independent view on models being fit-for-purpose, and to communicate it effectively to a variety of internal and external stakeholders.
+• *WHAT WE ARE LOOKING FOR**
+
+EXPERIENCE
+- 1-2 years working in a similar position.
+- Strong quantitative background.
+- Working in development or validation of credit risk models such as scoring and rating models, PD, LGD, EL, EAD, Stress Test, provisioning (NIC 39/IFRS9) & Economic Capital.
+- Implementing Basel II requirements and interaction with supervisors.
+- Calculation of regulatory capital returns for IRB portfolios.
+
+EDUCATION
+- Graduated in Mathematics, Statistics, Physics, Engineering.
+- Industry certifications.
+- Desired
+- Master in Quantitative Finance.
+- FRM, CFA.
+
+SKILLS & KNOWLEDGE
+- Proficiency in one of the following: SAS, R, C++, VBA, MATLAB.
+- Language skills - High level of English and Spanish.",eyJqb2JfdGl0bGUiOiJDcmVkaXQgUmlzayBJbnRlcm5hbCBWYWxpZGF0aW9uIEFuYWx5c3QiLCJjb21wYW55X25hbWUiOiJTYW50YW5kZXIiLCJhZGRyZXNzX2NpdHkiOiJCb2FkaWxsYSBkZWwgTW9udGUsIFNwYWluIiwiaHRpZG9jaWQiOiJBM2JzT0RBQzRSQmFxZXhfQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQiLCJnbCI6InVzIiwiaGwiOiJlbiJ9,Full-time,21 hours ago,2025-06-17 12:33:38.246026,Model Validation Analyst,Spain
+Non Financial Risk,Santander,"Boadilla del Monte, Spain",Trabajo.org,https://serpapi.com/searches/6851447f80c963b0550797b3/images/3be60206993b40db92097b60838a961e359a6c39f92b57cb5ff440b860b50d7b.png,"['9 days ago', 'Full-time']","Non Financial Risk (NFR) Internal Model Validation - Quantitative Analysis
+
+Country: Spain
+• *WHAT YOU WILL BE DOING**
+• *RISKS is looking for a NON FINANCIAL RISK (NFR) INTERNAL MODEL VALIDATION ANALYST (QUANTITATIVE ANALYSIS), based in our HEADQUARTERS (BOADILLA DEL MONTE) office.**
+• *WHY YOU SHOULD CONSIDER THIS OPPORTUNITY**
+• *Credit Risk, Interest Rate Risk, liquidity risk, operational risk, reputational risk**There are many types of risks, that's why it analysis and quantification is key for our purpose of being a Simple, Personal and Fair bank.
+
+Working on risks means doing it from a management perspective that contributes to the sustainable progress of people and companies.
+
+Santander is proud of being an organization where there are equal opportunities regardless of gender identity, culture and disability. Our mission is to contribute to help more people and business prosper.
+• *WHAT YOU WILL BE DOING**
+
+As a **NFR Internal Model Validation Analyst, **you will be part of is responsible, among others, for the independent validation of those models from the Economic Research area (forecasting), Compliance, Insurance, Operational risk and Pensions. The modelling techniques include a rich variety of mathematics, ranging from statistics, stochastic processes, differential geometry, algebra or Machine Learning techniques.
+
+We need someone like you to help us in different fronts:
+
+- The validation process consists in the analysis of the following key areas: Mathematical model foundations, model performance and sensitivities, model infrastructure, data and model usages. Most of the analysis is based on our own challenge models (Python) plus a close interaction with the model owners and users of all geographies in Santander. Besides, there is a fluent communication with the Internal and External Audit functions as well as with other validation hubs.
+- As part of the Risk function (2nd LoD), the aforementioned analysis is embedded within the model risk assessment and concludes with a validation report (normally built with LaTeX), findings and a model risk rating.
+- The non-financial unit fosters a collaboration atmosphere, open environment, constant innovation, accuracy and attention to detail. Being on the edge is key to the function, so the team regularly prepares internal courses and seminars on relevant research topics.
+• *WHAT ARE WE LOOKING FOR**
+
+EXPERIENCE
+- 1-2 years of relevant experience.
+
+EDUCATION
+- University studies with a very strong background in mathematics and computer science; also valuable are economy and actuarial sciences. PhD and publications would be a plus.
+
+SKILLS & KNOWLEDGE
+- High level in designing and coding in some programming language, preferably Python.
+- Proficiency in English, both written and spoken.
+- Self-motivated person, completely result-oriented with focus on automation and quality.
+- Ability to work well both independently and collaboratively as a member of the team.
+- Will to keep up with the latest research and prepare internal presentations and seminars.",eyJqb2JfdGl0bGUiOiJOb24gRmluYW5jaWFsIFJpc2siLCJjb21wYW55X25hbWUiOiJTYW50YW5kZXIiLCJhZGRyZXNzX2NpdHkiOiJCb2FkaWxsYSBkZWwgTW9udGUsIFNwYWluIiwiaHRpZG9jaWQiOiJHazkxeXFnTlk3RWdnNmkwQUFBQUFBPT0iLCJ1dWxlIjoidytDQUlRSUNJRlUzQmhhVzQiLCJnbCI6InVzIiwiaGwiOiJlbiJ9,Full-time,9 days ago,2025-06-17 12:33:38.246026,Model Validation Analyst,Spain
