@@ -59,7 +59,7 @@ Trading stands out as the most frequent and in-demand skill across quantitative 
 
 It’s also important to note that while trading itself is not something typically taught in a quantitative finance master’s program, every other skill on this list is. Trading is proprietary — you learn it by doing it. To master it, you need to be where professional traders are, observe how they operate, and ideally, get paid to learn on the job.
 
-<img src="images/top-50-skills-in-quant-finance.png" alt="Top 50 Skills in Quant Finance" width="50%">
+<img src="images/top-50-skills-in-quant-finance.png" alt="Top 50 Skills in Quant Finance" width="75%">
 
 _Frequency analysis of the top 50 skills mentioned in quantitative finance job descriptions_
 
