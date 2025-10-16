@@ -19,18 +19,18 @@ All findings are summarised in **The Quant Protocol** eBook and complements rese
 
 ### Salary Analysis (USD, Annualized)
 
-Based on analysis of 4,350+ job postings with salary information:
+Based on analysis of US only job postings, here is the median salary information:
 
 | Role                           | Median Salary | Job Count |
 | ------------------------------ | ------------- | --------- |
-| Quantitative Strategist        | $185,000      | 89        |
-| Quantitative Portfolio Manager | $175,000      | 156       |
-| Financial Engineer             | $170,000      | 312       |
-| Quantitative Trader            | $165,000      | 847       |
-| Quantitative Developer         | $160,000      | 1,203     |
-| Quantitative Researcher        | $155,000      | 1,987     |
-| Model Validation Analyst       | $145,000      | 198       |
-| Quantitative Risk Analyst      | $140,000      | 145       |
+| Quantitative Portfolio Manager | $175,000      | 354       |
+| Quantitative Researcher        | $171,600      | 357       |
+| Quantitative Strategist        | $165,000      | 47        |
+| Quantitative Developer         | $149,250      | 284       |
+| Financial Engineer             | $143,100      | 122       |
+| Model Validation Analyst       | $130,492      | 250       |
+| Quantitative Trader            | $109,200      | 419       |
+| Quantitative Risk Analyst      | $102,000      | 151       |
 
 ### Most In-Demand Skills
 
