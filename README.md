@@ -238,7 +238,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For questions, suggestions, or collaboration opportunities, please reach out through the repository issues or visit [TheQuantPy](https://github.com/TheQuantPy).
+For questions, suggestions, or collaboration opportunities, please reach out through the repository issues.
 
 ---
 
