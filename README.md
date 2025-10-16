@@ -15,7 +15,7 @@ This project analyzes the quantitative finance job market by extracting and proc
 
 ## 📊 Key Findings
 
-All findings are summarised in **The Quant Protocol** eBook and complements research on top quant finance university program. The Quant Protocol can be found [here](https://www.quantpykit.com/).
+All findings are summarised in **The Quant Protocol** eBook and complements research on top quant finance university program by Risk.net, 2025 [review](https://www.risk.net/quantitative-finance/7960103/quant-finance-masters-guide-2025). The Quant Protocol can be found [here](https://www.quantpykit.com/).
 
 ### Salary Analysis (USD, Annualized)
 
@@ -32,6 +32,14 @@ Based on analysis of US only job postings, here is the median salary information
 | Quantitative Trader            | $109,200      | 419       |
 | Quantitative Risk Analyst      | $102,000      | 151       |
 
+<img src="images/us-quant-jobs-salary-distribution.png" alt="US Quant Jobs Salary Distribution" width="600">
+
+_Distribution of quantitative finance salaries across all roles in the US market_
+
+<img src="images/us-quant-salary-per-role-distribution.png" alt="US Quant Salary by Role" width="700">
+
+_Detailed salary distribution breakdown by specific quantitative finance roles_
+
 ### Most In-Demand Skills
 
 1. **Mathematics** - Advanced mathematical modeling
@@ -45,10 +53,22 @@ Based on analysis of US only job postings, here is the median salary information
 9. **R** - Statistical computing
 10. **Derivatives** - Financial instruments expertise
 
+<img src="images/top-50-skills-in-quant-finance.png" alt="Top 50 Skills in Quant Finance" width="700">
+
+_Frequency analysis of the top 50 skills mentioned in quantitative finance job descriptions_
+
 ### Top Programming Languages & Libraries
 
 - **Languages**: Python, C++, R, SQL, MATLAB, Java
 - **Libraries**: pandas, numpy, scikit-learn, TensorFlow, PyTorch, QuantLib
+
+<img src="images/top-programming-languages.png" alt="Top Programming Languages" width="600">
+
+_Most frequently requested programming languages in quantitative finance job postings_
+
+<img src="images/top-quant-finance-libraries.png" alt="Top Quant Finance Libraries" width="600">
+
+_Most popular libraries and frameworks in quantitative finance roles_
 
 ## 🔧 Technical Implementation
 
@@ -162,6 +182,18 @@ The analysis generates several key outputs:
 - **Library and tool usage** statistics
 
 All visualizations and processed data are saved in the `data/insights/` directory.
+
+### Additional Analysis: Salary Expectations vs. Reality
+
+The Quant Protocol complements these insights with the Risk.net's 2025 review of top Quant Finance programs. My insight from this work can be summarised below:
+
+<img src="images/expected-salary-compared-to-acceptance-rates.png" alt="Expected Salary Compared to Acceptance Rates" width="650">
+
+_Analysis of salary expectations versus actual acceptance rates in quantitative finance roles_
+
+<img src="images/expected-salary-post-graduate.png" alt="Expected Salary Post Graduate" width="650">
+
+_Expected salary progression for post-graduate positions in quantitative finance_
 
 ## ⚠️ Limitations & Future Improvements
 
