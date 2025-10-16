@@ -46,8 +46,6 @@ _Detailed salary distribution breakdown by specific quantitative finance roles_
 
 Trading stands out as the most frequent and in-demand skill across quantitative finance roles. However, this dominance makes sense — virtually all financial market activities ultimately revolve around trading. Functions such as valuation, risk management, and quantitative research are all designed to support, enhance, or execute trading decisions.
 
-It’s also important to note that while trading itself is not something typically taught in a quantitative finance master’s program, every other skill on this list is. Trading is proprietary — you learn it by doing it. To master it, you need to be where professional traders are, observe how they operate, and ideally, get paid to learn on the job.
-
 1. **Trading** — Market Execution and Strategy
 2. **Research** — Strategy Development and Model Validation
 3. **Analysis** — Data-Driven Insights
@@ -58,6 +56,8 @@ It’s also important to note that while trading itself is not something typical
 8. **Pricing** — Valuation of Financial Instruments
 9. **Machine Learning** — Predictive Modeling and Automation
 10. **Optimization** — Efficient Portfolio and Strategy Design
+
+It’s also important to note that while trading itself is not something typically taught in a quantitative finance master’s program, every other skill on this list is. Trading is proprietary — you learn it by doing it. To master it, you need to be where professional traders are, observe how they operate, and ideally, get paid to learn on the job.
 
 <img src="images/top-50-skills-in-quant-finance.png" alt="Top 50 Skills in Quant Finance" width="700">
 
@@ -195,11 +195,11 @@ The Quant Protocol complements these insights with the Risk.net's 2025 review of
 
 <img src="images/expected-salary-compared-to-acceptance-rates.png" alt="Expected Salary Compared to Acceptance Rates" width="650">
 
-_Analysis of salary expectations versus actual acceptance rates in quantitative finance roles_
+_Analysis of post-graduate salaries versus actual acceptance rates in quantitative finance programs_
 
 <img src="images/expected-salary-post-graduate.png" alt="Expected Salary Post Graduate" width="650">
 
-_Expected salary progression for post-graduate positions in quantitative finance_
+_Expected exit salary for post-graduate positions in quant finance versus cost of quantitative finance program_
 
 ## ⚠️ Limitations & Future Improvements
 
@@ -207,7 +207,7 @@ _Expected salary progression for post-graduate positions in quantitative finance
 
 1. **Duplicate Entries**: Job postings may appear multiple times across different recruitment agencies
 2. **Role Classification**: Relies on search terms rather than ML-based role categorization
-3. **Sample Bias**: Limited to Google Jobs listings via SerpAPI
+3. **Sample Bias**: Limited to Google Jobs listings via SerpAPI, and search location and terms list
 4. **Temporal Scope**: Analysis based on monthly job posting snapshots
 
 ### Proposed Enhancements
