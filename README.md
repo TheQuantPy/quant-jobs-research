@@ -1,2 +1,207 @@
-# quant-jobs-research
-Research and collect data on quant jobs, required skills and salary ranges for job titles.
+# Quantitative Finance Jobs Research
+
+A comprehensive data analysis project investigating quantitative finance job markets, including salary distributions, required skills, and programming languages across different roles and geographical regions.
+
+## 🎯 Project Overview
+
+This project analyzes the quantitative finance job market by extracting and processing job postings from Google Jobs using SerpAPI. The analysis provides insights into:
+
+- **Salary distributions** across different quant roles
+- **Required skills** and qualifications for each position type
+- **Programming languages** and libraries in demand
+- **Geographical variations** in job availability and compensation
+
+**Inspiration**: This project was inspired by [Luke Barousse's](https://www.lukebarousse.com/) excellent data analyst job processing pipeline. I wanted to explore similar methodologies applied specifically to the quantitative finance domain.
+
+## 📊 Key Findings
+
+All findings are summarised in **The Quant Protocol** eBook and complements research on top quant finance university program. The Quant Protocol can be found [here](https://www.quantpykit.com/).
+
+### Salary Analysis (USD, Annualized)
+
+Based on analysis of 4,350+ job postings with salary information:
+
+| Role                           | Median Salary | Job Count |
+| ------------------------------ | ------------- | --------- |
+| Quantitative Strategist        | $185,000      | 89        |
+| Quantitative Portfolio Manager | $175,000      | 156       |
+| Financial Engineer             | $170,000      | 312       |
+| Quantitative Trader            | $165,000      | 847       |
+| Quantitative Developer         | $160,000      | 1,203     |
+| Quantitative Researcher        | $155,000      | 1,987     |
+| Model Validation Analyst       | $145,000      | 198       |
+| Quantitative Risk Analyst      | $140,000      | 145       |
+
+### Most In-Demand Skills
+
+1. **Mathematics** - Advanced mathematical modeling
+2. **Statistics** - Statistical analysis and inference
+3. **Python** - Primary programming language
+4. **Machine Learning** - ML algorithms and techniques
+5. **Risk Management** - Portfolio and market risk
+6. **Financial Modeling** - Quantitative financial models
+7. **C++** - High-performance computing
+8. **SQL** - Database management
+9. **R** - Statistical computing
+10. **Derivatives** - Financial instruments expertise
+
+### Top Programming Languages & Libraries
+
+- **Languages**: Python, C++, R, SQL, MATLAB, Java
+- **Libraries**: pandas, numpy, scikit-learn, TensorFlow, PyTorch, QuantLib
+
+## 🔧 Technical Implementation
+
+### Data Collection Pipeline
+
+The project uses a two-stage data collection approach:
+
+1. **US Job Market**: Focused searches across major financial hubs (NYC, California, Texas, Illinois, Florida)
+2. **International Markets**: Weighted sampling based on YouTube channel viewership data from 27 countries
+
+### Search Terms Analyzed
+
+- Quantitative Researcher
+- Quantitative Analyst
+- Quantitative Trader
+- Algorithmic Trader
+- Quantitative Developer
+- Quantitative Software Engineer
+- Model Validation Analyst
+- Quantitative Risk Analyst
+- Quantitative Portfolio Manager
+- Financial Engineer
+- Quantitative Strategist
+- And more specialized roles...
+
+## 📁 Project Structure
+
+```
+quant-jobs-research/
+├── quant-job-extraction.ipynb     # Data extraction from SerpAPI
+├── quant-job-cleaning.ipynb       # Data cleaning and analysis
+├── requirements.txt               # Python dependencies
+├── data/
+│   ├── us jobs/                  # US job data by role
+│   ├── country/                  # International job data by country
+│   ├── insights/                 # Processed analysis results
+│   ├── word lists/               # Curated skill and technology lists
+│   └── youtube/                  # YouTube viewership data for sampling
+└── README.md
+```
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.8+
+- Jupyter Lab/Notebook
+- SerpAPI key (register at [serpapi.com](https://serpapi.com/))
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/TheQuantPy/quant-jobs-research.git
+cd quant-jobs-research
+```
+
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Set up environment variables:
+
+```bash
+# Create .env file with your SerpAPI key
+echo "SERPAPI_KEY=your_serpapi_key_here" > .env
+```
+
+### Usage
+
+1. **Data Extraction**: Run `quant-job-extraction.ipynb` to collect fresh job data
+2. **Data Analysis**: Execute `quant-job-cleaning.ipynb` to process and analyze the data
+
+## 📈 Analysis Methodology
+
+### Data Cleaning & Normalization
+
+- **Currency Conversion**: All salaries normalized to USD using current exchange rates
+- **Rate Standardization**: Hourly, daily, and monthly rates converted to annual equivalents
+- **Role Categorization**: Job titles mapped to standardized quantitative finance role categories
+
+### Salary Analysis
+
+- Statistical analysis using percentiles (5th, 25th, 50th, 75th, 95th)
+- Box and whisker plots for distribution visualization
+- Role-based salary ranking and comparison
+
+### Skills Extraction
+
+- Frequency analysis of job description text
+- Curated word lists for quantitative finance skills
+- Separate analysis for:
+  - Core quantitative skills
+  - Programming languages
+  - Software libraries and tools
+
+### Geographic Sampling
+
+International job searches weighted by YouTube channel audience distribution to represent global interest in quantitative finance careers.
+
+## 📊 Key Insights & Visualizations
+
+The analysis generates several key outputs:
+
+- **Salary distribution charts** by role
+- **Skills frequency analysis** across all job descriptions
+- **Programming language popularity** rankings
+- **Library and tool usage** statistics
+
+All visualizations and processed data are saved in the `data/insights/` directory.
+
+## ⚠️ Limitations & Future Improvements
+
+### Current Limitations
+
+1. **Duplicate Entries**: Job postings may appear multiple times across different recruitment agencies
+2. **Role Classification**: Relies on search terms rather than ML-based role categorization
+3. **Sample Bias**: Limited to Google Jobs listings via SerpAPI
+4. **Temporal Scope**: Analysis based on monthly job posting snapshots
+
+### Proposed Enhancements
+
+1. **Deduplication Algorithm**: Implement fuzzy matching to remove duplicate job listings
+2. **ML-based Role Classification**: Train models to categorize jobs based on descriptions rather than titles
+3. **Temporal Analysis**: Track salary and skill trends over time
+4. **Company Analysis**: Analyze differences between investment banks, hedge funds, and tech companies
+
+## 🤝 Contributing
+
+Contributions are welcome! Areas for contribution include:
+
+- Enhanced data cleaning algorithms
+- Additional visualization techniques
+- Extended international market coverage
+- Machine learning model improvements
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- **Luke Barousse** for the original data analyst job pipeline inspiration and methodology
+- **SerpAPI** for providing reliable job search data access
+- **The Quantitative Finance Community** for domain expertise and validation
+
+## 📞 Contact
+
+For questions, suggestions, or collaboration opportunities, please reach out through the repository issues or visit [TheQuantPy](https://github.com/TheQuantPy).
+
+---
+
+_This analysis represents a snapshot of the quantitative finance job market and should be used for informational purposes. Market conditions and salary ranges may vary significantly based on experience, location, and market timing._
