@@ -2,6 +2,8 @@
 
 A comprehensive data analysis project investigating quantitative finance job markets, including salary distributions, required skills, and programming languages across different roles and geographical regions.
 
+All insights are drawn from available jobs data in Jun 2025 and Risk.net's 2025 review on quant finance programs.
+
 ## 🎯 Project Overview
 
 This project analyzes the quantitative finance job market by extracting and processing job postings from Google Jobs using SerpAPI. The analysis provides insights into:
@@ -42,16 +44,20 @@ _Detailed salary distribution breakdown by specific quantitative finance roles_
 
 ### Most In-Demand Skills
 
-1. **Mathematics** - Advanced mathematical modeling
-2. **Statistics** - Statistical analysis and inference
-3. **Python** - Primary programming language
-4. **Machine Learning** - ML algorithms and techniques
-5. **Risk Management** - Portfolio and market risk
-6. **Financial Modeling** - Quantitative financial models
-7. **C++** - High-performance computing
-8. **SQL** - Database management
-9. **R** - Statistical computing
-10. **Derivatives** - Financial instruments expertise
+Trading stands out as the most frequent and in-demand skill across quantitative finance roles. However, this dominance makes sense — virtually all financial market activities ultimately revolve around trading. Functions such as valuation, risk management, and quantitative research are all designed to support, enhance, or execute trading decisions.
+
+It’s also important to note that while trading itself is not something typically taught in a quantitative finance master’s program, every other skill on this list is. Trading is proprietary — you learn it by doing it. To master it, you need to be where professional traders are, observe how they operate, and ideally, get paid to learn on the job.
+
+1. **Trading** — Market Execution and Strategy
+2. **Research** — Strategy Development and Model Validation
+3. **Analysis** — Data-Driven Insights
+4. **Risk Management** — Measuring and Controlling Exposure
+5. **Programming** — Building the Quantitative Infrastructure
+6. **Mathematics** — The Foundation of Financial Theory
+7. **Statistics** — Data Modeling and Inference
+8. **Pricing** — Valuation of Financial Instruments
+9. **Machine Learning** — Predictive Modeling and Automation
+10. **Optimization** — Efficient Portfolio and Strategy Design
 
 <img src="images/top-50-skills-in-quant-finance.png" alt="Top 50 Skills in Quant Finance" width="700">
 
