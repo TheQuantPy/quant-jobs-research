@@ -1,0 +1,62 @@
+,skill,count
+0,trading,13599
+1,research,8343
+2,analysis,6582
+3,risk management,4638
+4,programming,2978
+5,mathematics,2461
+6,statistics,2396
+7,machine learning,1925
+8,pricing,1597
+9,model validation,1534
+10,optimization,1435
+11,quantitative analysis,1044
+12,data analysis,935
+13,derivatives,770
+14,credit risk,636
+15,statistical analysis,581
+16,stress testing,477
+17,regression,446
+18,linux,370
+19,econometrics,314
+20,backtesting,300
+21,financial modeling,288
+22,strategy development,249
+23,high-frequency trading,162
+24,deep learning,154
+25,git,154
+26,risk analysis,146
+27,var,143
+28,cloud computing,136
+29,monte carlo,108
+30,data engineering,105
+31,portfolio theory,95
+32,time series analysis,93
+33,monte carlo simulation,86
+34,stochastic calculus,78
+35,numerical methods,71
+36,reinforcement learning,68
+37,statistical arbitrage,43
+38,interest rate models,34
+39,greeks,32
+40,option pricing,26
+41,value at risk,23
+42,signal processing,21
+43,volatility modeling,19
+44,bayesian inference,9
+45,parallel computing,7
+46,pde,5
+47,api development,4
+48,kalman filter,4
+49,partial differential equations,3
+50,counterparty risk,2
+51,mcmc,0
+52,markov chain monte carlo,0
+53,liquidity modeling,0
+54,finite difference methods,0
+55,expectation maximization,0
+56,copula models,0
+57,black-scholes,0
+58,sde,0
+59,order book modeling,0
+60,quant_finance_skill,0

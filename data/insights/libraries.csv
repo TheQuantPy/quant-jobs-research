@@ -1,0 +1,61 @@
+,skill,count
+0,pandas,311
+1,numpy,275
+2,tensorflow,152
+3,pytorch,125
+4,scipy,120
+5,spark,104
+6,scikit-learn,86
+7,hadoop,72
+8,xgboost,45
+9,keras,44
+10,lightgbm,34
+11,matplotlib,34
+12,backtrader,18
+13,statsmodels,13
+14,quantlib,10
+15,zipline,4
+16,ta-lib,4
+17,pymc,2
+18,risk management toolbox,0
+19,qlnet,0
+20,leda,0
+21,armadillo,0
+22,econometrics toolbox,0
+23,boost c++ libraries,0
+24,timeseries.jl,0
+25,nquantlib,0
+26,markettechnicals.jl,0
+27,jquantlib,0
+28,quantecon.jl,0
+29,financialtoolbox.jl,0
+30,finmath,0
+31,strata (opengamma),0
+32,rquantlib,0
+33,ta-lib (c/python/r/java),0
+34,backtrader (python),0
+35,lean (quantconnect engine),0
+36,opengamma,0
+37,financial toolbox,0
+38,quantmod,0
+39,financialinstrument,0
+40,quantconnect (lean),0
+41,pyfolio,0
+42,bt,0
+43,ffn,0
+44,alphalens,0
+45,qstrader,0
+46,pymc3,0
+47,pandas-financial,0
+48,empyrical,0
+49,riskfolio-lib,0
+50,fportfolio,0
+51,vectorbt,0
+52,quantstats,0
+53,performanceanalytics,0
+54,ttr,0
+55,xts,0
+56,blotter,0
+57,quantstrat,0
+58,rugarch,0
+59,algorithmia,0
