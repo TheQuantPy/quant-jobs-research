@@ -65,8 +65,8 @@ _Frequency analysis of the top 50 skills mentioned in quantitative finance job d
 
 ### Top Programming Languages & Libraries
 
-- **Languages**: Python, C++, R, SQL, MATLAB, Java
-- **Libraries**: pandas, numpy, scikit-learn, TensorFlow, PyTorch, QuantLib
+- **Languages**: Python, SQL, R
+- **Libraries**: pandas, numpy, TensorFlow
 
 <img src="images/top-programming-languages.png" alt="Top Programming Languages" width="600">
 
