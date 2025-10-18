@@ -23,6 +23,8 @@ This project analyzes the quantitative finance job market by extracting and proc
 
 All findings are summarised in **The Quant Protocol** eBook and complements research on top quant finance university program by Risk.net, 2025 [review](https://www.risk.net/quantitative-finance/7960103/quant-finance-masters-guide-2025). The Quant Protocol can be found [here](https://www.quantpykit.com/).
 
+If you're looking for advice on how to get started studying Quant Finance here is my take [quantpy-manifesto](https://github.com/TheQuantPy/quantpy-manifesto/tree/main/quantitative-finance).
+
 ### Salary Analysis (USD, Annualized)
 
 Based on analysis of US only job postings, here is the median salary information:
