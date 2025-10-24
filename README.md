@@ -40,7 +40,7 @@ Based on analysis of US only job postings, here is the median salary information
 | Quantitative Trader            | $109,200      | 419       |
 | Quantitative Risk Analyst      | $102,000      | 151       |
 
-<img src="images/us-quant-salary-per-role-distribution.png" alt="US Quant Salary by Role" width="50%">
+<img src="images/us-quant-salary-per-role-distribution.png" alt="US Quant Salary by Role" width="100%">
 
 _Detailed salary distribution breakdown by specific quantitative finance roles_
 
@@ -61,7 +61,7 @@ Trading stands out as the most frequent and in-demand skill across quantitative 
 
 It’s also important to note that while trading itself is not something typically taught in a quantitative finance master’s program, every other skill on this list is. Trading is proprietary — you learn it by doing it. To master it, you need to be where professional traders are, observe how they operate, and ideally, get paid to learn on the job.
 
-<img src="images/top-50-skills-in-quant-finance.png" alt="Top 50 Skills in Quant Finance" width="75%">
+<img src="images/top-50-skills-in-quant-finance.png" alt="Top 50 Skills in Quant Finance" width="100%">
 
 _Frequency analysis of the top 50 skills mentioned in quantitative finance job descriptions_
 
@@ -70,11 +70,11 @@ _Frequency analysis of the top 50 skills mentioned in quantitative finance job d
 - **Languages**: Python, SQL, R
 - **Libraries**: pandas, numpy, TensorFlow
 
-<img src="images/top-programming-languages.png" alt="Top Programming Languages" width="50%">
+<img src="images/top-programming-languages.png" alt="Top Programming Languages" width="100%">
 
 _Most frequently requested programming languages in quantitative finance job postings_
 
-<img src="images/top-quant-finance-libraries.png" alt="Top Quant Finance Libraries" width="50%">
+<img src="images/top-quant-finance-libraries.png" alt="Top Quant Finance Libraries" width="100%">
 
 _Most popular libraries and frameworks in quantitative finance roles_
 
@@ -195,11 +195,11 @@ All visualizations and processed data are saved in the `data/insights/` director
 
 The Quant Protocol complements these insights with the Risk.net's 2025 review of top Quant Finance programs. My insight from this work can be summarised below:
 
-<img src="images/expected-salary-compared-to-acceptance-rates.png" alt="Expected Salary Compared to Acceptance Rates" width="75%">
+<img src="images/expected-salary-compared-to-acceptance-rates.png" alt="Expected Salary Compared to Acceptance Rates" width="100%">
 
 _Analysis of post-graduate salaries versus actual acceptance rates in quantitative finance programs_
 
-<img src="images/expected-salary-post-graduate.png" alt="Expected Salary Post Graduate" width="75%">
+<img src="images/expected-salary-post-graduate.png" alt="Expected Salary Post Graduate" width="100%">
 
 _Expected exit salary for post-graduate positions in quant finance versus cost of quantitative finance program_
 
