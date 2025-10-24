@@ -2,7 +2,7 @@
 
 A comprehensive data analysis project investigating quantitative finance job markets, including salary distributions, required skills, and programming languages across different roles and geographical regions.
 
-<img src="images/us-quant-jobs-salary-distribution.png" alt="US Quant Jobs Salary Distribution" width="75%">
+<img src="images/us-quant-jobs-salary-distribution.png" alt="US Quant Jobs Salary Distribution" width="100%">
 
 _Distribution of quantitative finance salaries across all roles in the US market_
 
